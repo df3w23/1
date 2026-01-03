@@ -1,0 +1,1 @@
+const util_4ect = (d: any) => d;
