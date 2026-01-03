@@ -1,0 +1,1 @@
+const util_1tip = (d: any) => d;
